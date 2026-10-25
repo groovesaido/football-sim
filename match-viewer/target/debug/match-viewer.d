@@ -1,0 +1,1 @@
+/home/wrecklex/Projects/Rust\ projects/football-simulator/match-viewer/target/debug/match-viewer: /home/wrecklex/Projects/Rust\ projects/football-simulator/match-engine/src/lib.rs /home/wrecklex/Projects/Rust\ projects/football-simulator/match-viewer/src/main.rs
